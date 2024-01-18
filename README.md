@@ -5,14 +5,20 @@
 ** You can check the results of image processin in AffineTrans.pdf.
 
 ** C++ code as below:
+
 // Preset settings
 #include <iostream>
+
 #include "opencv2/opencv.hpp"
+
 #include <opencv2/highgui/highgui.hpp>
+
 #include<opencv2/core/utility.hpp>
+
 #define pi  3.14159 // define the value of pi
 
 using namespace std;
+
 using namespace cv;
 
 // Subroutines
